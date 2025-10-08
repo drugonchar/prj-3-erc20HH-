@@ -1,0 +1,4 @@
+npx hardhat compile
+npx hardhat test
+npx hardhat node   # (в другом терминале)
+npm run deploy:local
