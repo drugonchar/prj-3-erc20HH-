@@ -1,0 +1,9 @@
+{
+  "name": "mytoken-hardhat",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "npx hardhat test",
+    "compile": "npx hardhat compile",
+    "deploy:local": "npx hardhat run scripts/deploy.js"
+  }
+}
